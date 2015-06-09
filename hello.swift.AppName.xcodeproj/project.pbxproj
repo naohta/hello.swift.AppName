@@ -15,6 +15,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		353407EC1B26CDC900A16270 /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 		35B167D21B2691540087C7D0 /* hello.swift.AppName.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = hello.swift.AppName.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		35B167D51B2691540087C7D0 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		35B167D71B2691540087C7D0 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -42,6 +43,7 @@
 			children = (
 				35B167E71B2692F90087C7D0 /* README.md */,
 				35B167EB1B26CABE0087C7D0 /* README.png */,
+				353407EC1B26CDC900A16270 /* .gitignore */,
 				35B167D41B2691540087C7D0 /* hello.swift.AppName */,
 				35B167D31B2691540087C7D0 /* Products */,
 			);
@@ -289,6 +291,7 @@
 				35B167E61B2691550087C7D0 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
