@@ -23,6 +23,7 @@
 		35B167DF1B2691550087C7D0 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		35B167E11B2691550087C7D0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		35B167E71B2692F90087C7D0 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		35B167EB1B26CABE0087C7D0 /* README.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = README.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -40,6 +41,7 @@
 			isa = PBXGroup;
 			children = (
 				35B167E71B2692F90087C7D0 /* README.md */,
+				35B167EB1B26CABE0087C7D0 /* README.png */,
 				35B167D41B2691540087C7D0 /* hello.swift.AppName */,
 				35B167D31B2691540087C7D0 /* Products */,
 			);
